@@ -12,5 +12,4 @@
 
 ---
 
-# Connect
-📫 Let's collaborate: [LinkedIn](https://linkedin.com/in/your-link) | [Website](https://your-website.com)
+
