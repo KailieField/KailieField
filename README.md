@@ -1,16 +1,14 @@
-## Hi there 👋
+// =======================
+//        About Me
+// =======================
+🔐 Cybersecurity & Cryptography Enthusiast | Aerospace & Intelligence Specialist  
+🎓 Advanced Diploma in Computer Programming & Analysis (Graduating Apr 2025)  
+🚀 Focus: Securing systems for aerospace, space technologies, and intelligence operations  
 
-<!--
-**KailieField/KailieField** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// =======================
+//         Goals
+// =======================
+🌌 Protect critical infrastructure in aerospace and emerging space industries  
+🔑 Advance cryptographic solutions for defense and intelligence systems  
+🛰️ Innovate secure protocols for cutting-edge technologies  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
